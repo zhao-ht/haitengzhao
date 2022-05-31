@@ -1,0 +1,18 @@
+projects:
+  - title: "Adaptive Receptive Field for RNN"
+    subtitle: "An Informative Adaptive Receptive Field Model for Recurrent Neural Networks"
+    thumbnail: "assets/projects/2019_adaptive/thumbnail.png"
+    url: "projects/2019_adaptive.html"
+    selected: n
+
+  - title: "RNN Optimization"
+    subtitle: "Will RNN Gradients explode?"
+    thumbnail: "assets/projects/2020_rnn/thumbnail.png"
+    url: "projects/2020_rnn.html"
+    selected: n
+
+  - title: "Structure of Episodic Memory"
+    subtitle: "A Computational Model of mPFC and HPC for Context Structure of Episodic Memory"
+    thumbnail: "assets/projects/2021_memory/thumbnail.png"
+    url: "projects/2021_memory.html"
+    selected: n

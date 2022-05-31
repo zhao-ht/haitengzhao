@@ -1,0 +1,13 @@
+papers:
+
+  - title: "Domain Adaptation via Mutual Information Maximization"
+    authors: "<b>Haiteng Zhao</b>, Chang Ma, Qinyu Chen, Zhihong Deng"
+    venue: "IJCAI 2022 (Long presentation)"
+    paper_pdf: "/assets/publications/2021_sida/paper.pdf"
+    selected: y
+
+  - title: "Certified Robustness Against Natural Language Attacks by Causal Intervention"
+    authors: "<b>Haiteng Zhao</b><sup>‡</sup>, Chang Ma<sup>‡</sup>, Xinshuai Dong<sup>‡</sup>, Anh Tuan Luu, Zhi-Hong Deng, Hanwang Zhang"
+    venue: "ICML 2022"
+    paper_pdf: "/assets/publications/2022_CISS/paper.pdf"
+    selected: y

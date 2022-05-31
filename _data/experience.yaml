@@ -1,0 +1,32 @@
+experiences:
+
+
+- place: "Microsoft Research Asia"
+  time: "Jan 2022 - "
+  title: "Research Intern"
+  subtitle: " Natural Language Computing (NLC) group"
+  category: "work"
+
+- place: "Nanyang Technological University"
+  time: "June-Nov 2021"
+  title: "Collaborator"
+  subtitle: "NAIL Group, NLP"
+  category: "collaboration"
+
+- place: "Peking University"
+  time: "Sep 2020 - "
+  title: "Ph.D. Student"
+  subtitle: "CS, Machine Learning"
+  category: "school"
+
+- place: "Peking University"
+  time: "July 2018 - July 2020"
+  title: "Research Assistant"
+  subtitle: "Sigma Lab, Department of Machine Intelligence"
+  category: "work"
+
+- place: "Peking University"
+  time: "Sep 2016 - July 2020"
+  title: "B.Sc. Student"
+  subtitle: "Psychology "
+  category: "school"
