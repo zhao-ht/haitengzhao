@@ -1,13 +1,28 @@
 papers:
 
-  - title: "Domain Adaptation via Mutual Information Maximization"
-    authors: "<b>Haiteng Zhao</b>, Chang Ma, Qinyu Chen, Zhihong Deng"
-    venue: "IJCAI 2022 (Long presentation)"
-    paper_pdf: "/assets/publications/2021_sida/paper.pdf"
+  - title: "Are More Layers Beneficial to Graph Transformers?"
+    authors: "<b>Haiteng Zhao</b>, Shuming Ma, Dongdong Zhang, Zhi-Hong Deng, Furu Wei"
+    venue: "International Conference on Learning Representations (ICLR) 2023"
+    paper_pdf: "https://arxiv.org/pdf/2303.00579.pdf"
+    selected: y
+    
+  - title: "Retrieved Sequence Augmentation for Protein Representation Learning"
+    authors: "Chang Ma, <b>Haiteng Zhao</b>, Lin Zheng, Jiayi Xin, Qintong Li, Lijun Wu, Zhihong Deng, Yang Lu, Qi Liu, Lingpeng Kong"
+    venue: "arXiv preprint"
+    paper_pdf: "https://arxiv.org/pdf/2302.12563.pdf"
     selected: y
 
   - title: "Certified Robustness Against Natural Language Attacks by Causal Intervention"
     authors: "<b>Haiteng Zhao</b><sup>‡</sup>, Chang Ma<sup>‡</sup>, Xinshuai Dong<sup>‡</sup>, Anh Tuan Luu, Zhi-Hong Deng, Hanwang Zhang"
-    venue: "ICML 2022"
-    paper_pdf: "/assets/publications/2022_CISS/paper.pdf"
+    venue: "International Conference on Machine Learning (ICML) 2022"
+    paper_pdf: "https://arxiv.org/pdf/2205.12331.pdf"
     selected: y
+
+  - title: "Domain Adaptation via Mutual Information Maximization"
+    authors: "<b>Haiteng Zhao</b>, Chang Ma, Qinyu Chen, Zhihong Deng"
+    venue: "International Joint Conference on Artificial Intelligence (IJCAI) 2022 (Long presentation)"
+    paper_pdf: "https://arxiv.org/pdf/2110.12184.pdf"
+    selected: y
+
+
+
