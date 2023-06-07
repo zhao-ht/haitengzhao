@@ -1,0 +1,8 @@
+source:      .
+destination: ./_site
+includes:    ./_includes
+baseurl: /haitengzhao
+
+collections:
+  projects:
+    output: true
