@@ -1,3 +1,4 @@
+
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset
       xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
@@ -5,7 +6,6 @@
       xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 <!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
-
 
 <url>
   <loc>https://zhao-ht.github.io/haitengzhao/</loc>
@@ -31,6 +31,7 @@
   <loc>https://zhao-ht.github.io/haitengzhao/assets/cv/cv_web.pdf</loc>
   <lastmod>2022-07-03T08:31:44+00:00</lastmod>
   <priority>0.80</priority>
+
 </url>
 
 
