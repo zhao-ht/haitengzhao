@@ -1,8 +1,8 @@
 papers:
   - title: "GIMLET: A Unified Graph-Text Model for Instruction-Based Molecule Zero-Shot Learning"
     authors: "<b>Haiteng Zhao</b>, Shengchao Liu, Chang Ma, Hannan Xu, Jie Fu, Zhi-Hong Deng, Lingpeng Kong, Qi Liu"
-    venue: "bioarXiv preprint"
-    paper_pdf: "https://www.biorxiv.org/content/10.1101/2023.05.30.542904v2.full.pdf"
+    venue: "Conference on Neural Information Processing Systems (NeurIPS) 2023"
+    paper_pdf: "https://arxiv.org/pdf/2306.13089.pdf"
     selected: y
     
   - title: "Are More Layers Beneficial to Graph Transformers?"
