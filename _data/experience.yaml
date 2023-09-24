@@ -1,7 +1,13 @@
 experiences:
 
 - place: "The University of Hong Kong"
-  time: "Sep 2022 - "
+  time: "Aug 2023 - "
+  title: "Research Intern"
+  subtitle: "Bytedance Data-AML-US"
+  category: "work"
+
+- place: "The University of Hong Kong"
+  time: "Sep 2022 - May 2023"
   title: "Research Intern"
   subtitle: "HKU NLP"
   category: "work"
