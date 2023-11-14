@@ -4,6 +4,12 @@ papers:
     venue: "Conference on Neural Information Processing Systems (NeurIPS) 2023"
     paper_pdf: "https://arxiv.org/pdf/2306.13089.pdf"
     selected: y
+
+  - title: "ChatPathway: Conversational Large Language Models for Biology Pathway Detection"
+    authors: "Yanjing Li, Hannan Xu, <b>Haiteng Zhao</b>, Hongyu Guo, Shengchao Liu"
+    venue: "Conference on Neural Information Processing Systems (NeurIPS) 2023 AI for Science Workshop"
+    paper_pdf: "https://openreview.net/pdf?id=AS5AZ5L8zk"
+    selected: y
     
   - title: "Are More Layers Beneficial to Graph Transformers?"
     authors: "<b>Haiteng Zhao</b>, Shuming Ma, Dongdong Zhang, Zhi-Hong Deng, Furu Wei"
