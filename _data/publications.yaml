@@ -1,4 +1,10 @@
 papers:
+  - title: "Exploring the Reasoning Abilities of Multimodal Large Language Models (MLLMs): A Comprehensive Survey on Emerging Trends in Multimodal Reasoning"
+    authors: "Yiqi Wang, Wentao Chen, Xiaotian Han, Xudong Lin, <b>Haiteng Zhao</b>, Yongfei Liu, Bohan Zhai, Jianbo Yuan, Quanzeng You, Hongxia Yang"
+    venue: "arXiv preprint"
+    paper_pdf: "https://arxiv.org/pdf/2401.06805.pdf"
+    selected: y
+    
   - title: "GIMLET: A Unified Graph-Text Model for Instruction-Based Molecule Zero-Shot Learning"
     authors: "<b>Haiteng Zhao</b>, Shengchao Liu, Chang Ma, Hannan Xu, Jie Fu, Zhi-Hong Deng, Lingpeng Kong, Qi Liu"
     venue: "Conference on Neural Information Processing Systems (NeurIPS) 2023"
