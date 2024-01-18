@@ -8,7 +8,7 @@ papers:
   - title: "GIMLET: A Unified Graph-Text Model for Instruction-Based Molecule Zero-Shot Learning"
     authors: "<b>Haiteng Zhao</b>, Shengchao Liu, Chang Ma, Hannan Xu, Jie Fu, Zhi-Hong Deng, Lingpeng Kong, Qi Liu"
     venue: "Conference on Neural Information Processing Systems (NeurIPS) 2023"
-    paper_pdf: "https://arxiv.org/pdf/2306.13089.pdf"
+    paper_pdf: "https://openreview.net/pdf?id=Tt6DrRCgJV"
     selected: y
 
   - title: "ChatPathway: Conversational Large Language Models for Biology Pathway Detection"
