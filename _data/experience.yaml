@@ -1,7 +1,13 @@
 experiences:
 
+- place: "Tencent"
+  time: "Mar 2024 - "
+  title: "Research Intern"
+  subtitle: "AI Lab"
+  category: "work"
+
 - place: "Bytedance"
-  time: "Aug 2023 - "
+  time: "Aug 2023 - Feb 2024"
   title: "Research Intern"
   subtitle: "Data-AML-US"
   category: "work"
