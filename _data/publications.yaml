@@ -31,7 +31,7 @@ papers:
     
   - title: "Retrieved Sequence Augmentation for Protein Representation Learning"
     authors: "Chang Ma, <b>Haiteng Zhao</b>, Lin Zheng, Jiayi Xin, Qintong Li, Lijun Wu, Zhihong Deng, Yang Lu, Qi Liu, Lingpeng Kong"
-    venue: "arXiv preprint"
+    venue: "Conference on Empirical Methods in Natural Language Processing (EMNLP) 2024"
     paper_pdf: "https://arxiv.org/pdf/2302.12563.pdf"
     selected: y
 
