@@ -1,6 +1,6 @@
 papers:
   - title: "Non-myopic Generation of Language Model for Reasoning and Planning"
-    authors: "Chang Ma, <b>Haiteng Zhao</b>, Junlei Zhang, Junxian He, Lingpeng Kong "
+    authors: "Chang Ma, <b>Haiteng Zhao</b>, Junlei Zhang, Junxian He, Lingpeng Kong"
     venue: "arXiv preprint"
     paper_pdf: "https://arxiv.org/pdf/2410.17195"
     selected: y
