@@ -1,4 +1,10 @@
 papers:
+  - title: "Non-myopic Generation of Language Model for Reasoning and Planning"
+    authors: "Chang Ma, <b>Haiteng Zhao</b>, Junlei Zhang, Junxian He, Lingpeng Kong"
+    venue: "arXiv preprint"
+    paper_pdf: "https://arxiv.org/pdf/2410.17195"
+    selected: y
+
   - title: "Instruction-Based Molecular Graph Generation with Unified Text-Graph Diffusion Model"
     authors: "Yuran Xiang, <b>Haiteng Zhao</b>, Chang Ma, Zhi-Hong Deng"
     venue: "arXiv preprint"
