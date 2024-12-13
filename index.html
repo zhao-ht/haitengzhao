@@ -39,9 +39,7 @@ title: Home
     <div class="tab-pane active" id="papers-selected">
       {% assign selected_papers = site.data.publications.papers | where: "selected", "y" %}
       {% for paper in selected_papers %}
-        
-        <img src={{ paper.thumbnail }} style="FLOAT: left; MARGIN-BOTTOM: 10px; MARGIN-RIGHT: 20px" alt=""width="200" height="100">
-        
+
         <div class="paper">
           <p class="title"><b>{{ paper.title }}</b></p>
           <p>{{ paper.authors }}</p>
@@ -80,9 +78,7 @@ title: Home
     <div class="tab-pane active" id="papers-agent">
       {% assign selected_papers = site.data.publications.papers | where: "agent", "y" %}
       {% for paper in selected_papers %}
-        
-        <img src={{ paper.thumbnail }} style="FLOAT: left; MARGIN-BOTTOM: 10px; MARGIN-RIGHT: 20px" alt=""width="200" height="100">
-        
+
         <div class="paper">
           <p class="title"><b>{{ paper.title }}</b></p>
           <p>{{ paper.authors }}</p>
@@ -120,9 +116,7 @@ title: Home
     <div class="tab-pane active" id="papers-generalization">
       {% assign selected_papers = site.data.publications.papers | where: "generalization", "y" %}
       {% for paper in selected_papers %}
-        
-        <img src={{ paper.thumbnail }} style="FLOAT: left; MARGIN-BOTTOM: 10px; MARGIN-RIGHT: 20px" alt=""width="200" height="100">
-        
+
         <div class="paper">
           <p class="title"><b>{{ paper.title }}</b></p>
           <p>{{ paper.authors }}</p>
@@ -161,7 +155,7 @@ title: Home
 
     <div class="tab-pane" id="papers-all">
       {% for paper in site.data.publications.papers %}
-        <img src={{ paper.thumbnail }} style="FLOAT: left; MARGIN-BOTTOM: 10px; MARGIN-RIGHT: 20px" alt=""width="200" height="100">
+
         <div class="paper">
           <p class="title"><b>{{ paper.title }}</b></p>
           <p>{{ paper.authors }}</p>
