@@ -35,8 +35,9 @@ title: Home
     <li><div class="button active" data-ref="#papers-agent">#Agent</div></li>
   </ul>
 
-    <div class="tab-pane" id="papers-all">
-      <div class="tab-pane active" id="papers-all">
+  <div class="tab-content">
+    
+    <div class="tab-pane active" id="papers-all">
       {% for paper in site.data.publications.papers %}
 
         <div class="paper">
@@ -73,7 +74,7 @@ title: Home
       {% endfor %}
     </div>
 
-  <div class="tab-content">
+  <div class="tab-pane active" id="papers-ai4science">
     
       {% assign selected_papers = site.data.publications.papers | where: "ai4science", "y" %}
       {% for paper in selected_papers %}
@@ -192,7 +193,7 @@ title: Home
 
 
 
-  
+</div>
 </div>
 
 
