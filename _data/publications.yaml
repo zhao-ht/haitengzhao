@@ -3,7 +3,8 @@ papers:
     authors: "Chang Ma, <b>Haiteng Zhao</b>, Junlei Zhang, Junxian He, Lingpeng Kong"
     venue: "arXiv preprint"
     paper_pdf: "https://arxiv.org/pdf/2410.17195"
-    selected: y
+    selected: n
+    agent: y
 
   - title: "Instruction-Based Molecular Graph Generation with Unified Text-Graph Diffusion Model"
     authors: "Yuran Xiang, <b>Haiteng Zhao</b>, Chang Ma, Zhi-Hong Deng"
@@ -15,13 +16,14 @@ papers:
     authors: "<b>Haiteng Zhao</b>, Chang Ma, Guoyin Wang, Jing Su, Lingpeng Kong, Jingjing Xu, Zhi-Hong Deng, Hongxia Yang"
     venue: "Conference on Language Modeling (COLM) 2024"
     paper_pdf: "https://arxiv.org/pdf/2402.15809.pdf"
-    selected: y
+    selected: n
+    agent: y
 
   - title: "Exploring the Reasoning Abilities of Multimodal Large Language Models (MLLMs): A Comprehensive Survey on Emerging Trends in Multimodal Reasoning"
     authors: "Yiqi Wang, Wentao Chen, Xiaotian Han, Xudong Lin, <b>Haiteng Zhao</b>, Yongfei Liu, Bohan Zhai, Jianbo Yuan, Quanzeng You, Hongxia Yang"
     venue: "arXiv preprint"
     paper_pdf: "https://arxiv.org/pdf/2401.06805.pdf"
-    selected: y
+    selected: n
     
   - title: "GIMLET: A Unified Graph-Text Model for Instruction-Based Molecule Zero-Shot Learning"
     authors: "<b>Haiteng Zhao</b>, Shengchao Liu, Chang Ma, Hannan Xu, Jie Fu, Zhi-Hong Deng, Lingpeng Kong, Qi Liu"
@@ -39,7 +41,8 @@ papers:
     authors: "<b>Haiteng Zhao</b>, Shuming Ma, Dongdong Zhang, Zhi-Hong Deng, Furu Wei"
     venue: "International Conference on Learning Representations (ICLR) 2023"
     paper_pdf: "https://arxiv.org/pdf/2303.00579.pdf"
-    selected: y
+    selected: n
+    generalization: y
     
   - title: "Retrieved Sequence Augmentation for Protein Representation Learning"
     authors: "Chang Ma, <b>Haiteng Zhao</b>, Lin Zheng, Jiayi Xin, Qintong Li, Lijun Wu, Zhihong Deng, Yang Lu, Qi Liu, Lingpeng Kong"
@@ -51,13 +54,15 @@ papers:
     authors: "<b>Haiteng Zhao</b><sup>‡</sup>, Chang Ma<sup>‡</sup>, Xinshuai Dong<sup>‡</sup>, Anh Tuan Luu, Zhi-Hong Deng, Hanwang Zhang"
     venue: "International Conference on Machine Learning (ICML) 2022"
     paper_pdf: "https://arxiv.org/pdf/2205.12331.pdf"
-    selected: y
+    selected: n
+    generalization: y
 
   - title: "Domain Adaptation via Mutual Information Maximization"
     authors: "<b>Haiteng Zhao</b>, Chang Ma, Qinyu Chen, Zhihong Deng"
     venue: "International Joint Conference on Artificial Intelligence (IJCAI) 2022 (Long presentation)"
     paper_pdf: "https://arxiv.org/pdf/2110.12184.pdf"
-    selected: y
+    selected: n
+    generalization: y
 
 
 
