@@ -29,10 +29,10 @@ title: Home
   </p>
 
   <ul class="tab-nav">
-    <li><div class="button" data-ref="#papers-all">All</div></li>
-    <li><div class="button active" data-ref="#papers-theory">#Machine Learning Theory</div></li>
-    <li><div class="button active" data-ref="#papers-ai4science">#AI4Science</div></li>
-    <li><div class="button active" data-ref="#papers-agent">#Agent</div></li>
+    <li><div class="button active" data-ref="#papers-all">All</div></li>
+    <li><div class="button" data-ref="#papers-theory">#Machine Learning Theory</div></li>
+    <li><div class="button" data-ref="#papers-ai4science">#AI4Science</div></li>
+    <li><div class="button" data-ref="#papers-agent">#Agent</div></li>
   </ul>
 
   <div class="tab-content">
@@ -74,7 +74,7 @@ title: Home
       {% endfor %}
     </div>
 
-  <div class="tab-pane" id="papers-ai4science">
+    <div class="tab-pane" id="papers-ai4science">
     
       {% assign selected_papers = site.data.publications.papers | where: "ai4science", "y" %}
       {% for paper in selected_papers %}
@@ -193,7 +193,7 @@ title: Home
 
 
 
-</div>
+  </div>
 </div>
 
 
