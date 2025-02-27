@@ -1,7 +1,14 @@
 papers:
+  - title: "BioMaze: Benchmarking and Enhancing Large Language Models for Biological Pathway Reasoning"
+    authors: "<b>Haiteng Zhao</b>, Chang Ma, Fangzhi Xu, Lingpeng Kong, Zhi-Hong Deng"
+    venue: "arXiv preprint"
+    paper_pdf: "https://arxiv.org/pdf/2502.16660"
+    ai4science: y
+    agent: y
+
   - title: "Non-myopic Generation of Language Model for Reasoning and Planning"
     authors: "Chang Ma, <b>Haiteng Zhao</b>, Junlei Zhang, Junxian He, Lingpeng Kong"
-    venue: "arXiv preprint"
+    venue: "International Conference on Learning Representations (ICLR) 2025"
     paper_pdf: "https://arxiv.org/pdf/2410.17195"
     ai4science: n
     agent: y
