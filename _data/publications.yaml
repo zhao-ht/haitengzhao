@@ -1,4 +1,11 @@
 papers:
+  - title: "&phi-Decoding: Adaptive Foresight Sampling for Balanced Inference-Time Exploration and Exploitation"
+    authors: "Fangzhi Xu, Hang Yan, Chang Ma, <b>Haiteng Zhao</b>, Jun Liu, Qika Lin, Zhiyong Wu"
+    venue: "arXiv preprint"
+    paper_pdf: "https://arxiv.org/pdf/2503.13288"
+    ai4science: n
+    agent: y
+
   - title: "BioMaze: Benchmarking and Enhancing Large Language Models for Biological Pathway Reasoning"
     authors: "<b>Haiteng Zhao</b>, Chang Ma, Fangzhi Xu, Lingpeng Kong, Zhi-Hong Deng"
     venue: "arXiv preprint"
