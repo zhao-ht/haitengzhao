@@ -1,5 +1,5 @@
 papers:
-  - title: "&phi-Decoding: Adaptive Foresight Sampling for Balanced Inference-Time Exploration and Exploitation"
+  - title: "φ-Decoding: Adaptive Foresight Sampling for Balanced Inference-Time Exploration and Exploitation"
     authors: "Fangzhi Xu, Hang Yan, Chang Ma, <b>Haiteng Zhao</b>, Jun Liu, Qika Lin, Zhiyong Wu"
     venue: "arXiv preprint"
     paper_pdf: "https://arxiv.org/pdf/2503.13288"
