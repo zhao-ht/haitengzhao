@@ -1,7 +1,13 @@
 experiences:
 
+- place: "Shanghai AI Lab"
+  time: "Oct 2024 - "
+  title: "Research Intern"
+  subtitle: "LLM Lab"
+  category: "work"
+
 - place: "Tencent"
-  time: "Mar 2024 - "
+  time: "Mar 2024 - Oct 2024"
   title: "Research Intern"
   subtitle: "AI Lab NLP"
   category: "work"
