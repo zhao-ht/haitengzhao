@@ -1,4 +1,11 @@
 papers:
+  - title: "Genius: A Generalizable and Purely Unsupervised Self-Training Framework For Advanced Reasoning"
+    authors: "Fangzhi Xu, Hang Yan, Chang Ma, <b>Haiteng Zhao</b>, Qiushi Sun, Kanzhi Cheng, Junxian He, Jun Liu, Zhiyong Wu"
+    venue: "arXiv preprint"
+    paper_pdf: "https://arxiv.org/pdf/2504.08672?"
+    ai4science: n
+    agent: y
+    
   - title: "φ-Decoding: Adaptive Foresight Sampling for Balanced Inference-Time Exploration and Exploitation"
     authors: "Fangzhi Xu, Hang Yan, Chang Ma, <b>Haiteng Zhao</b>, Jun Liu, Qika Lin, Zhiyong Wu"
     venue: "arXiv preprint"
