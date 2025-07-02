@@ -1,7 +1,12 @@
 experiences:
+- place: "Shanghai AI Lab"
+  time: "July 2025 - "
+  title: "Full-time Researcher"
+  subtitle: "LLM Lab"
+  category: "work"
 
 - place: "Shanghai AI Lab"
-  time: "Oct 2024 - "
+  time: "Oct 2024 - July 2025"
   title: "Research Intern"
   subtitle: "LLM Lab"
   category: "work"
