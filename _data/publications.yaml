@@ -1,4 +1,18 @@
 papers:
+  - title: "Semi-off-Policy Reinforcement Learning for Vision-Language Slow-thinking Reasoning"
+    authors: "Junhao Shen, <b>Haiteng Zhao</b>, Yuzhe Gu, Songyang Gao, Kuikun Liu, Haian Huang, Jianfei Gao, Dahua Lin, Wenwei Zhang, Kai Chen"
+    venue: "arXiv preprint"
+    paper_pdf: "https://arxiv.org/pdf/2507.16814"
+    ai4science: n
+    agent: y
+
+  - title: "MUR: Momentum Uncertainty guided Reasoning for Large Language Models"
+    authors: "Hang Yan, Fangzhi Xu, Rongman Xu, Yifei Li, Jian Zhang, Haoran Luo, Xiaobao Wu, Luu Anh Tuan, <b>Haiteng Zhao</b>, Qika Lin, Jun Liu"
+    venue: "arXiv preprint"
+    paper_pdf: "https://arxiv.org/pdf/2507.14958"
+    ai4science: n
+    agent: y
+    
   - title: "ScienceBoard: Evaluating Multimodal Autonomous Agents in Realistic Scientific Workflows"
     authors: "Qiushi Sun, Zhoumianze Liu, Chang Ma, Zichen Ding, Fangzhi Xu, Zhangyue Yin, <b>Haiteng Zhao</b>, Zhenyu Wu, Kanzhi Cheng, Zhaoyang Liu, Jianing Wang, Qintong Li, Xiangru Tang, Tianbao Xie, Xiachong Feng, Xiang Li, Ben Kao, Wenhai Wang, Biqing Qi, Lingpeng Kong, Zhiyong Wu"
     venue: "arXiv preprint"
