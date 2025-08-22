@@ -1,4 +1,10 @@
 papers:
+  - title: "Intern-S1: A Scientific Multimodal Foundation Model"
+    venue: "arXiv preprint"
+    paper_pdf: "https://arxiv.org/pdf/2508.15763"
+    ai4science: y
+    agent: n
+
   - title: "Semi-off-Policy Reinforcement Learning for Vision-Language Slow-thinking Reasoning"
     authors: "Junhao Shen, <b>Haiteng Zhao</b>, Yuzhe Gu, Songyang Gao, Kuikun Liu, Haian Huang, Jianfei Gao, Dahua Lin, Wenwei Zhang, Kai Chen"
     venue: "arXiv preprint"
