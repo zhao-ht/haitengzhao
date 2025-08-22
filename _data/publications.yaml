@@ -1,5 +1,6 @@
 papers:
   - title: "Intern-S1: A Scientific Multimodal Foundation Model"
+    authors: "Intern-S1 Team, Shanghai AI Laboratory"
     venue: "arXiv preprint"
     paper_pdf: "https://arxiv.org/pdf/2508.15763"
     ai4science: y
