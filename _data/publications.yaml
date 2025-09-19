@@ -6,9 +6,9 @@ papers:
     ai4science: y
     agent: n
 
-  - title: "Semi-off-Policy Reinforcement Learning for Vision-Language Slow-thinking Reasoning"
+  - title: "Semi-off-Policy Reinforcement Learning for Vision-Language Slow-Thinking Reasoning"
     authors: "Junhao Shen, <b>Haiteng Zhao</b>, Yuzhe Gu, Songyang Gao, Kuikun Liu, Haian Huang, Jianfei Gao, Dahua Lin, Wenwei Zhang, Kai Chen"
-    venue: "arXiv preprint"
+    venue: "Advances in Neural Information Processing Systems (NeurIPS) 2025"
     paper_pdf: "https://arxiv.org/pdf/2507.16814"
     ai4science: n
     agent: y
