@@ -1,4 +1,18 @@
 papers:
+  - title: "Achieving Olympia-Level Geometry Large Language Model Agent via Complexity Boosting Reinforcement Learning"
+    authors: "<b>Haiteng Zhao</b>, Junhao Shen, Yiming Zhang, Songyang Gao, Kuikun Liu, Tianyou Ma, Fan Zheng, Dahua Lin, Wenwei Zhang, Kai Chen"
+    venue: "arXiv preprint"
+    paper_pdf: "https://arxiv.org/pdf/2512.10534"
+    ai4science: y
+    agent: y
+
+  - title: "Long-horizon Reasoning Agent for Olympiad-Level Mathematical Problem Solving"
+    authors: "Songyang Gao, Yuzhe Gu, Zijian Wu, Lingkai Kong, Wenwei Zhang, Zhongrui Cai, Fan Zheng, Tianyou Ma, Junhao Shen, <b>Haiteng Zhao</b>, Duanyang Zhang, Huilun Zhang, Kuikun Liu, Chengqi Lyu, Yanhui Duan, Chiyu Chen, Ningsheng Ma, Jianfei Gao, Han Lyu, Dahua Lin, Kai Chen"
+    venue: "arXiv preprint"
+    paper_pdf: "https://arxiv.org/pdf/2512.10739"
+    ai4science: y
+    agent: y
+
   - title: "Intern-S1: A Scientific Multimodal Foundation Model"
     authors: "Intern-S1 Team, Shanghai AI Laboratory"
     venue: "arXiv preprint"
