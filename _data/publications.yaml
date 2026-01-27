@@ -1,7 +1,7 @@
 papers:
   - title: "Achieving Olympia-Level Geometry Large Language Model Agent via Complexity Boosting Reinforcement Learning"
     authors: "<b>Haiteng Zhao</b>, Junhao Shen, Yiming Zhang, Songyang Gao, Kuikun Liu, Tianyou Ma, Fan Zheng, Dahua Lin, Wenwei Zhang, Kai Chen"
-    venue: "arXiv preprint"
+    venue: "The Fourteenth International Conference on Learning Representations (ICLR 2026)"
     paper_pdf: "https://arxiv.org/pdf/2512.10534"
     ai4science: y
     agent: y
@@ -36,7 +36,7 @@ papers:
     
   - title: "ScienceBoard: Evaluating Multimodal Autonomous Agents in Realistic Scientific Workflows"
     authors: "Qiushi Sun, Zhoumianze Liu, Chang Ma, Zichen Ding, Fangzhi Xu, Zhangyue Yin, <b>Haiteng Zhao</b>, Zhenyu Wu, Kanzhi Cheng, Zhaoyang Liu, Jianing Wang, Qintong Li, Xiangru Tang, Tianbao Xie, Xiachong Feng, Xiang Li, Ben Kao, Wenhai Wang, Biqing Qi, Lingpeng Kong, Zhiyong Wu"
-    venue: "arXiv preprint"
+    venue: "The Fourteenth International Conference on Learning Representations (ICLR 2026)"
     paper_pdf: "https://arxiv.org/pdf/2505.19897"
     ai4science: y
     agent: y
