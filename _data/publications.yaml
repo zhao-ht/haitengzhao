@@ -1,4 +1,11 @@
 papers:
+  - title: "Intern-S1-Pro: Scientific Multimodal Foundation Model at Trillion Scale"
+    authors: "Intern-S1-Pro Team, Shanghai AI Laboratory"
+    venue: "arXiv preprint"
+    paper_pdf: "https://arxiv.org/pdf/2603.25040"
+    ai4science: y
+    agent: n
+    
   - title: "Achieving Olympia-Level Geometry Large Language Model Agent via Complexity Boosting Reinforcement Learning"
     authors: "<b>Haiteng Zhao</b>, Junhao Shen, Yiming Zhang, Songyang Gao, Kuikun Liu, Tianyou Ma, Fan Zheng, Dahua Lin, Wenwei Zhang, Kai Chen"
     venue: "International Conference on Learning Representations (ICLR) 2026"
