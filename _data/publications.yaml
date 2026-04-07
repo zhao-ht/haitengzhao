@@ -36,7 +36,7 @@ papers:
 
   - title: "MUR: Momentum Uncertainty guided Reasoning for Large Language Models"
     authors: "Hang Yan, Fangzhi Xu, Rongman Xu, Yifei Li, Jian Zhang, Haoran Luo, Xiaobao Wu, Luu Anh Tuan, <b>Haiteng Zhao</b>, Qika Lin, Jun Liu"
-    venue: "arXiv preprint"
+    venue: "The 64th Annual Meeting of the Association for Computational Linguistics (ACL) 2026"
     paper_pdf: "https://arxiv.org/pdf/2507.14958"
     ai4science: n
     agent: y
