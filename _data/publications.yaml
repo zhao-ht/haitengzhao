@@ -1,4 +1,11 @@
 papers:
+  - title: "Exploring Visual Pretraining for Learning Language Intelligence"
+    authors: "Zhonghan Zhao, Yiming Zhang, Wenwei Zhang, <b>Haiteng Zhao</b>, Xingguang Wei, Zhangwei Gao, Kuikun Liu, Yuzhe Gu, Size Wu, Haian Huang, Jianfei Gao, Haijun Lv, Demin Song, Yunhua Zhou, Qipeng Guo, Gaoang Wang, Kai Chen"
+    venue: "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2026"
+    paper_pdf: "https://openaccess.thecvf.com/content/CVPR2026/papers/Zhao_Exploring_Visual_Pretraining_for_Learning_Language_Intelligence_CVPR_2026_paper.pdf"
+    ai4science: n
+    agent: n
+
   - title: "Intern-S1-Pro: Scientific Multimodal Foundation Model at Trillion Scale"
     authors: "Intern-S1-Pro Team, Shanghai AI Laboratory"
     venue: "arXiv preprint"
