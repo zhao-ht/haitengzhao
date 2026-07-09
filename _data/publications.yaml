@@ -22,7 +22,7 @@ papers:
 
   - title: "Long-horizon Reasoning Agent for Olympiad-Level Mathematical Problem Solving"
     authors: "Songyang Gao, Yuzhe Gu, Zijian Wu, Lingkai Kong, Wenwei Zhang, Zhongrui Cai, Fan Zheng, Tianyou Ma, Junhao Shen, <b>Haiteng Zhao</b>, Duanyang Zhang, Huilun Zhang, Kuikun Liu, Chengqi Lyu, Yanhui Duan, Chiyu Chen, Ningsheng Ma, Jianfei Gao, Han Lyu, Dahua Lin, Kai Chen"
-    venue: "arXiv preprint"
+    venue: "Conference on Language Modeling (COLM) 2026"
     paper_pdf: "https://arxiv.org/pdf/2512.10739"
     ai4science: y
     agent: y
