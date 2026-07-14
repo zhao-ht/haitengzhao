@@ -1,6 +1,13 @@
 papers:
+  - title: "AdvancedMathBench: A Benchmark Suite for Advanced Mathematical Proof Generation and Verification"
+    authors: "Lingkai Kong, Zijian Wu, Yuzhe Gu, <b>Haiteng Zhao</b>, Wenyong Huang, Shuang Sun, Zhicheng Xiong, Xiaotian Zhang, Shuya Zhao, Yan Wang, Disheng Xu, Wenwei Zhang, Kai Chen"
+    venue: "arxiv preprint"
+    paper_pdf: "https://arxiv.org/pdf/2607.11849"
+    ai4science: n
+    agent: n
+
   - title: "Scalable Visual Pretraining for Language Intelligence"
-    authors: "Yiming Zhang, Zhonghan Zhao, Wenwei Zhang, Haiteng Zhao, Tianyang Lin, Yunhua Zhou, Demin Song, Kuikun Liu, Haochen Ye, Haian Huang, Yuzhe Gu, Haijun Lv, Qipeng Guo, Bin Liu, Gaoang Wang, Kai Chen"
+    authors: "Yiming Zhang, Zhonghan Zhao, Wenwei Zhang, <b>Haiteng Zhao</b>, Tianyang Lin, Yunhua Zhou, Demin Song, Kuikun Liu, Haochen Ye, Haian Huang, Yuzhe Gu, Haijun Lv, Qipeng Guo, Bin Liu, Gaoang Wang, Kai Chen"
     venue: "arxiv preprint"
     paper_pdf: "https://arxiv.org/pdf/2607.09657"
     ai4science: n
