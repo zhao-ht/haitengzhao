@@ -4,7 +4,7 @@ papers:
     venue: "arxiv preprint"
     paper_pdf: "https://arxiv.org/pdf/2607.11849"
     ai4science: n
-    agent: n
+    agent: y
 
   - title: "Scalable Visual Pretraining for Language Intelligence"
     authors: "Yiming Zhang, Zhonghan Zhao, Wenwei Zhang, <b>Haiteng Zhao</b>, Tianyang Lin, Yunhua Zhou, Demin Song, Kuikun Liu, Haochen Ye, Haian Huang, Yuzhe Gu, Haijun Lv, Qipeng Guo, Bin Liu, Gaoang Wang, Kai Chen"
@@ -12,6 +12,7 @@ papers:
     paper_pdf: "https://arxiv.org/pdf/2607.09657"
     ai4science: n
     agent: n
+    theory: y
 
   - title: "Exploring Visual Pretraining for Learning Language Intelligence"
     authors: "Zhonghan Zhao, Yiming Zhang, Wenwei Zhang, <b>Haiteng Zhao</b>, Xingguang Wei, Zhangwei Gao, Kuikun Liu, Yuzhe Gu, Size Wu, Haian Huang, Jianfei Gao, Haijun Lv, Demin Song, Yunhua Zhou, Qipeng Guo, Gaoang Wang, Kai Chen"
@@ -19,6 +20,7 @@ papers:
     paper_pdf: "https://openaccess.thecvf.com/content/CVPR2026/papers/Zhao_Exploring_Visual_Pretraining_for_Learning_Language_Intelligence_CVPR_2026_paper.pdf"
     ai4science: n
     agent: n
+    theory: y
 
   - title: "Intern-S1-Pro: Scientific Multimodal Foundation Model at Trillion Scale"
     authors: "Intern-S1-Pro Team, Shanghai AI Laboratory"
@@ -31,14 +33,14 @@ papers:
     authors: "<b>Haiteng Zhao</b>, Junhao Shen, Yiming Zhang, Songyang Gao, Kuikun Liu, Tianyou Ma, Fan Zheng, Dahua Lin, Wenwei Zhang, Kai Chen"
     venue: "International Conference on Learning Representations (ICLR) 2026"
     paper_pdf: "https://arxiv.org/pdf/2512.10534"
-    ai4science: y
+    ai4science: n
     agent: y
 
   - title: "Long-horizon Reasoning Agent for Olympiad-Level Mathematical Problem Solving"
     authors: "Songyang Gao, Yuzhe Gu, Zijian Wu, Lingkai Kong, Wenwei Zhang, Zhongrui Cai, Fan Zheng, Tianyou Ma, Junhao Shen, <b>Haiteng Zhao</b>, Duanyang Zhang, Huilun Zhang, Kuikun Liu, Chengqi Lyu, Yanhui Duan, Chiyu Chen, Ningsheng Ma, Jianfei Gao, Han Lyu, Dahua Lin, Kai Chen"
     venue: "Conference on Language Modeling (COLM) 2026"
     paper_pdf: "https://arxiv.org/pdf/2512.10739"
-    ai4science: y
+    ai4science: n
     agent: y
 
   - title: "Intern-S1: A Scientific Multimodal Foundation Model"
@@ -67,7 +69,7 @@ papers:
     venue: "International Conference on Learning Representations (ICLR) 2026"
     paper_pdf: "https://arxiv.org/pdf/2505.19897"
     ai4science: y
-    agent: y
+    agent: n
 
   - title: "Genius: A Generalizable and Purely Unsupervised Self-Training Framework For Advanced Reasoning"
     authors: "Fangzhi Xu, Hang Yan, Chang Ma, <b>Haiteng Zhao</b>, Qiushi Sun, Kanzhi Cheng, Junxian He, Jun Liu, Zhiyong Wu"
@@ -88,7 +90,7 @@ papers:
     venue: "arXiv preprint"
     paper_pdf: "https://arxiv.org/pdf/2502.16660"
     ai4science: y
-    agent: y
+    agent: n
 
   - title: "Non-myopic Generation of Language Model for Reasoning and Planning"
     authors: "Chang Ma, <b>Haiteng Zhao</b>, Junlei Zhang, Junxian He, Lingpeng Kong"
