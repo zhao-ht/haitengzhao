@@ -1,4 +1,11 @@
 papers:
+  - title: "Intern-S2-Preview: Scientific Agentic Foundation Model"
+    authors: "Intern-S2-Preview Team, Shanghai AI Laboratory"
+    venue: "arXiv preprint"
+    paper_pdf: "https://arxiv.org/pdf/2608.13505"
+    ai4science: y
+    agent: n
+    
   - title: "AdvancedMathBench: A Benchmark Suite for Advanced Mathematical Proof Generation and Verification"
     authors: "Lingkai Kong, Zijian Wu, Yuzhe Gu, <b>Haiteng Zhao</b>, Wenyong Huang, Shuang Sun, Zhicheng Xiong, Xiaotian Zhang, Shuya Zhao, Yan Wang, Disheng Xu, Wenwei Zhang, Kai Chen"
     venue: "arxiv preprint"
