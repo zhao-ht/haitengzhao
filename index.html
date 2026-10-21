@@ -36,6 +36,26 @@ I received my Ph.D. in Machine Learning and Intelligence from Peking University 
 </div>
 
 
+<!-- ========== SELECTED PROJECTS ========== -->
+<section class="docs-section" id="projects" aria-labelledby="projects-heading">
+  <h4 id="projects-heading">Selected Projects</h4>
+  {% assign featured_projects = site.projects | sort: "order" %}
+  {% for project in featured_projects %}
+  <article class="featured-project">
+    <a class="featured-project-image" href="{{ project.url | relative_url }}" aria-label="{{ project.title | escape }}">
+      <img src="{{ project.image | relative_url }}" alt="{{ project.image_alt | escape }}" width="640" height="400" loading="lazy">
+    </a>
+    <div class="featured-project-copy">
+      <p class="project-kicker">{{ project.category }}</p>
+      <h5><a href="{{ project.url | relative_url }}">{{ project.title }}</a></h5>
+      <p>{{ project.summary }}</p>
+      <a class="project-read-more" href="{{ project.url | relative_url }}">Explore project <span aria-hidden="true">&rarr;</span><span class="visually-hidden">: {{ project.title }}</span></a>
+    </div>
+  </article>
+  {% endfor %}
+</section>
+
+
 <!-- ========== PUBLICATIONS ========== -->
 <div class="docs-section" id="publications">
   <h4>Publications</h4>

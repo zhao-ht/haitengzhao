@@ -1,17 +1,15 @@
 ---
 layout: default
 ---
-<div class="docs-section">
-
-  {% if page.subtitle == "" or page.subtitle == nil %}
-  	<h3>{{ page.title }}</h3>
-  {% else %}
-    <div class="title-subtitle">
-      <h3>{{ page.title }}</h3>
-      <h5>{{ page.subtitle }}</h5>
-    </div>
-  {% endif %}
-
+<article class="docs-section project-detail">
+  <a class="project-back" href="{{ '/index.html#projects' | relative_url }}">&larr; All projects</a>
+  <p class="project-kicker">{{ page.category }}</p>
+  <h2>{{ page.title }}</h2>
+  <p class="project-lead">{{ page.summary }}</p>
+  <figure class="project-figure">
+    <img src="{{ page.image | relative_url }}" alt="{{ page.image_alt | escape }}">
+    <figcaption>{{ page.image_caption }}</figcaption>
+  </figure>
   {{ content }}
-
-</div>
+  <a class="project-back" href="{{ '/index.html#projects' | relative_url }}">&larr; Back to selected projects</a>
+</article>

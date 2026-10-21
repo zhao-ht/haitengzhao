@@ -191,3 +191,55 @@ h4 {
   .popover-item:first-child .popover-link:hover:after {
     border-bottom-color: #33C3F0; }
 }
+/* Selected projects */
+#projects { scroll-margin-top: 8rem; }
+.featured-project {
+  display: grid;
+  grid-template-columns: 240px minmax(0, 1fr);
+  gap: 2.8rem;
+  align-items: center;
+  padding: 2.8rem 0;
+  border-bottom: 1px solid #eee;
+}
+.featured-project:first-of-type { padding-top: .8rem; }
+.featured-project:last-child { border-bottom: 0; padding-bottom: 0; }
+.featured-project-image {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  aspect-ratio: 8 / 5;
+  background: #f6f8fa;
+  border: 1px solid #e5e9ed;
+  border-radius: 6px;
+  overflow: hidden;
+}
+.featured-project-image img { width: 100%; height: 100%; object-fit: contain; }
+.project-kicker {
+  margin-bottom: .7rem;
+  color: #526779;
+  font-size: 1.1rem;
+  font-weight: 600;
+  letter-spacing: .1rem;
+  text-transform: uppercase;
+}
+.featured-project h5 { font-size: 2rem; line-height: 1.4; margin-bottom: 1rem; letter-spacing: 0; }
+.featured-project h5 a { color: #222; text-decoration: none; }
+.featured-project h5 a:hover { color: #087c9e; }
+.featured-project-copy > p:not(.project-kicker) { margin-bottom: 1.2rem; font-size: 1.4rem; line-height: 1.65; }
+.project-read-more, .project-back { color: #087c9e; font-size: 1.3rem; font-weight: 600; text-decoration: none; }
+.project-read-more:hover, .project-back:hover { text-decoration: underline; }
+.featured-project a:focus-visible, .project-detail a:focus-visible { outline: 2px solid #087c9e; outline-offset: 4px; }
+.project-back { display: inline-block; margin-bottom: 2.4rem; }
+.project-detail h2 { font-size: 3.4rem; line-height: 1.25; letter-spacing: -.05rem; }
+.project-detail h3 { font-size: 2.2rem; letter-spacing: 0; margin-top: 3.2rem; }
+.project-lead { color: #52606b; font-size: 1.7rem; line-height: 1.7; }
+.project-figure { margin: 2.4rem 0 3.2rem; }
+.project-figure img { display: block; width: auto; max-width: 100%; max-height: 620px; margin: 0 auto; }
+.project-figure figcaption { margin-top: 1rem; font-size: 1.2rem; color: #626d76; text-align: center; }
+.project-detail li { margin-bottom: 1.2rem; }
+.visually-hidden { position: absolute; width: 1px; height: 1px; padding: 0; margin: -1px; overflow: hidden; clip: rect(0,0,0,0); white-space: nowrap; border: 0; }
+@media (max-width: 549px) {
+  .featured-project { grid-template-columns: minmax(0, 1fr); gap: 1.6rem; }
+  .featured-project-image { width: 100%; }
+  .project-detail h2 { font-size: 2.7rem; }
+}
