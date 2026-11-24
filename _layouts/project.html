@@ -6,7 +6,7 @@ layout: default
   <p class="project-kicker">{{ page.category }}</p>
   <h2>{{ page.title }}</h2>
   <p class="project-lead">{{ page.summary }}</p>
-  <figure class="project-figure">
+  <figure class="project-figure{% if page.image_compact %} project-figure-compact{% endif %}">
     <img src="{{ page.image | relative_url }}" alt="{{ page.image_alt | escape }}">
     <figcaption>{{ page.image_caption }}</figcaption>
   </figure>

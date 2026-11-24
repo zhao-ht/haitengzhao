@@ -5,6 +5,7 @@ category: "Foundation Models · Intern-S2"
 order: 2
 permalink: /projects/intern-models/
 image: /assets/projects/intern-s2.png
+image_compact: true
 image_alt: "Official Intern-S2 model banner"
 image_caption: "Official artwork from the Intern-S2-397B model repository."
 summary: "Contributing to the Intern family of large models, with a particular focus on Intern-S2-397B: a scientific multimodal foundation model with leading mathematical reasoning among open-source models."
