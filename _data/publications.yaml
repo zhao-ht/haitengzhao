@@ -8,6 +8,22 @@ papers:
     agent: y
     theory: n
 
+  - title: "Steer, Don't Tell: Breaking Reasoning Plateaus with Reachability-Aligned Self-Distillation"
+    authors: "Zijian Wu, Lingkai Kong, Lin Yang, <b>Haiteng Zhao</b>, Kuikun Liu, Kai Chen, Dahua Lin, Wenwei Zhang"
+    venue: "arXiv preprint"
+    paper_pdf: "https://arxiv.org/pdf/2611.00796"
+    ai4science: n
+    agent: y
+    theory: n
+
+  - title: "Incentivizing Self-Learning in Large Language Models via Reinforcement Learning"
+    authors: "Lingkai Kong, Yuzhe Gu, <b>Haiteng Zhao</b>, Zijian Wu, Youqing Fang, Zhouqi Hua, Yanan Sun, Kai Chen, Wenwei Zhang"
+    venue: "arXiv preprint"
+    paper_pdf: "https://arxiv.org/pdf/2610.39671"
+    ai4science: n
+    agent: y
+    theory: n
+
   - title: "Intern-S2-Preview: Scientific Agentic Foundation Model"
     authors: "Intern-S2-Preview Team, Shanghai AI Laboratory"
     venue: "arXiv preprint"
