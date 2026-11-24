@@ -1,4 +1,13 @@
 papers:
+  - title: "CoForest: A Conversational Harness for Mathematical Research with Recursive Solving and Persistent Memory"
+    authors: "<b>Haiteng Zhao</b>, Yuzhe Gu, Songyang Gao, Jiesong Zhang, Zhouqi Hua, Lingkai Kong, Wenyong Huang, Shuya Zhao, Xiaotian Zhang, Chengzhi Xiong, Shuang Sun, Yan Wang, Dahua Lin, Xing Xie, Bowen Zhou, Disheng Xu, Wenwei Zhang"
+    venue: "Technical report, 2026"
+    paper_pdf: "https://zhao-ht.github.io/CoForest/CoForest.pdf"
+    project_page: "/projects/ghys-conjecture/"
+    ai4science: y
+    agent: y
+    theory: n
+
   - title: "Intern-S2-Preview: Scientific Agentic Foundation Model"
     authors: "Intern-S2-Preview Team, Shanghai AI Laboratory"
     venue: "arXiv preprint"

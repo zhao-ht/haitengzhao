@@ -84,6 +84,10 @@ I received my Ph.D. in Machine Learning and Intelligence from Peking University 
               <a class="button" href="{{ paper.paper_pdf}}" target="_blank">Paper</a>
             {% endif %}
 
+            {% if paper.project_page %}
+              <a class="button" href="{{ paper.project_page | relative_url }}">Project page</a>
+            {% endif %}
+
             {% if paper.slides %}
               <a class="button" href="{{ paper.slides}}" target="_blank">Slides</a>
             {% endif %}
@@ -121,6 +125,10 @@ I received my Ph.D. in Machine Learning and Intelligence from Peking University 
            <div class="paper-buttons">
             {% if paper.paper_pdf %}
               <a class="button" href="{{ paper.paper_pdf }}" target="_blank">Paper</a>
+            {% endif %}
+
+            {% if paper.project_page %}
+              <a class="button" href="{{ paper.project_page | relative_url }}">Project page</a>
             {% endif %}
 
             {% if paper.slides %}
@@ -162,6 +170,10 @@ I received my Ph.D. in Machine Learning and Intelligence from Peking University 
               <a class="button" href="{{ paper.paper_pdf }}" target="_blank">Paper</a>
             {% endif %}
 
+            {% if paper.project_page %}
+              <a class="button" href="{{ paper.project_page | relative_url }}">Project page</a>
+            {% endif %}
+
             {% if paper.slides %}
               <a class="button" href="{{ paper.slides }}" target="_blank">Slides</a>
             {% endif %}
@@ -198,6 +210,10 @@ I received my Ph.D. in Machine Learning and Intelligence from Peking University 
            <div class="paper-buttons">
             {% if paper.paper_pdf %}
               <a class="button" href="{{ paper.paper_pdf }}" target="_blank">Paper</a>
+            {% endif %}
+
+            {% if paper.project_page %}
+              <a class="button" href="{{ paper.project_page | relative_url }}">Project page</a>
             {% endif %}
 
             {% if paper.slides %}

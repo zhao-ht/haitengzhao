@@ -10,6 +10,8 @@ image_caption: "A complex torus illustration from Shanghai AI Laboratory’s rep
 summary: "Helping mathematicians solve the three-dimensional Ghys conjecture through human–AI collaboration: Intern-S2 combines large-scale recursive reasoning with expert insight to tackle a problem open for more than 30 years."
 ---
 
+[CoForest paper](https://zhao-ht.github.io/CoForest/CoForest.pdf) · [CoForest project website](https://zhao-ht.github.io/CoForest/)
+
 ### From competition mathematics to mathematical discovery
 
 My work on mathematical reasoning at Shanghai AI Laboratory contributes to a broader goal: making AI a useful research partner for mathematicians. In this project, Disheng Xu and Jiesong Zhang worked with Intern-S2 and its research harness to prove the three-dimensional Ghys conjecture. A separate Peking University team led by Bin Dong and Ruochuan Liu carried out formal verification using the SHEAF framework.
